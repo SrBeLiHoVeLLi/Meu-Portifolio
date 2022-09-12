@@ -1,0 +1,247 @@
+.conteiner {
+    width: 348px;
+    height: 300px;
+    position: absolute;
+    top: 83em;
+    background-color: #302F3D;
+    left: 20px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.2);
+}
+
+.Nome-Educação {
+    background-color: transparent;
+    position: absolute;
+    left: 35px;
+    top: 15px;
+    color: #837E9F;
+}
+
+.Nome-Area {
+    position: absolute;
+    top: 50px;
+    background-color: transparent;
+    left: 60px;
+    color: #837E9F;
+}
+
+.Nome-Area2 {
+    position: absolute;
+    background-color: transparent;
+    top: 7em;
+    left: 60px;
+    color: #837E9F;
+}
+
+.Nome-Area3 {
+    position: absolute;
+    background-color: transparent;
+    top: 220px;
+    left: 60px;
+    color: #837E9F;
+}
+
+.menu-projeto {
+    width: 900px;
+    height: 70px;
+    position: absolute;
+    right: 40px;
+    top: 25px;
+    border-radius: 15px;
+    background-color: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+.menu-veja {
+    position: absolute;
+    right: 20px;
+    top: 24px;
+    color: #837E9F;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.nome-projeto {
+    background-color: transparent;
+    position: absolute;
+    top: 23px;
+    font-size: 17px;
+    left: 20px;
+    color: #837E9F;
+    cursor: pointer;
+}
+
+.menu-projects {
+    width: 420px;
+    height: 200px;
+    position: absolute;
+    right: 520px;
+    top: 130px;
+    background-color: #302F3D;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+
+.nome-icon {
+    position: absolute;
+    left: 50px;
+    font-size: 17px;
+    top: 30px;
+    color: #837E9F;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.icon-folder {
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    width: 20px;
+    height: 20px;
+    color: #837E9F;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.texto-projeto {
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    font-size: 14px;
+    background-color: transparent;
+    color: #837E9F;
+}
+
+.icon-star {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: transparent;
+    color: #837E9F;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.number-star {
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+    background-color: transparent;
+    color: #837E9F;
+    cursor: pointer;
+}
+
+.text-js {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background-color: transparent;
+    color: #837E9F;
+    cursor: pointer;
+}
+
+.circulo {
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    position: absolute;
+    background-color: #fff;
+    border: 2px solid #837E9F;
+    right: 100px;
+    bottom: 23px;
+}
+
+.menu-projects2 {
+    width: 420px;
+    height: 200px;
+    right: 40px;
+    top: 130px;
+    position: absolute;
+    background-color: #302F3D;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.menu-recent {
+    position: absolute;
+    width: 900px;
+    height: 70px;
+    right: 36px;
+    top: 380px;
+    background-color: #302F3D;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2)
+}
+
+.text-recent {
+    background-color: transparent;
+    color: #837E9F;
+    top: 23px;
+    left: 20px;
+    cursor: pointer;
+    position: absolute;
+}
+
+.menu-pf-project {
+    width: 900px;
+    height: 200px;
+    position: absolute;
+    bottom: 0;
+    background-color: #302F3D;
+    border-radius: 15px;
+    right: 35px;
+    top: 490px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+
+.img-4k {
+    width: 130px;
+    height: 130px;
+    position: absolute;
+    border-radius: 50%;
+    top: 35px;
+    left: 35px;
+    border: solid 2px #837E9F;
+}
+
+.nome-inicial{
+    position: absolute;
+    background-color: transparent;
+    color: #837E9F;
+    left: 180px;
+    top: 50px;
+    font-size: 18px;
+}
+
+.periodo-data{
+    position: absolute;
+    background-color: transparent;
+    color: #837E9F;
+    left: 180px;
+    top: 70px;
+}
+
+.nome-secundario{
+   position: absolute;
+   background-color: transparent;
+   left: 180px;
+    top: 110px;
+    color: #837E9F;
+    font-size: 17px;
+}
+
+.categorias{
+    position: absolute;
+    background-color: transparent;
+    color: #837E9F;
+    left: 180px;
+    top: 131px;
+    font-size: 18px;
+    
+}
